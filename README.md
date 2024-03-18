@@ -1,4 +1,4 @@
-# Pandas Essential Training (2023 Revision)
+# Pandas Essential Training (2024 Revision)
 This is the repository for the LinkedIn Learning course `Pandas Essential Training (2023 Revision)`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
